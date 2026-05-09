@@ -6,7 +6,7 @@ public class Experiment {
         int[] sizes = {10,30,100};
 
         for(int size : sizes){
-            System.out.println("Testing Graph with" + size + "Vertices");
+            System.out.println("Testing Graph with " + size + " Vertices");
 
             Graph g = new Graph();
             runTraversals(g,size);
