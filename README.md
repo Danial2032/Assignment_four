@@ -79,4 +79,4 @@ E. Screenshots
 
 F. Reflection Section
 
-Implementing these algorithms shows how choice of data structure impacts utility. BFS checks all nearby nodes while DFS checks as far as possible.
+Implementing these algorithms shows how choice of data structure impacts utility. BFS checks all nearby nodes while DFS checks as far as possible. It was not hard to implement the project.
