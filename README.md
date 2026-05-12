@@ -64,10 +64,19 @@ Uses recursion. It follows a path as far as possible before backtracking. The co
 
 D.Experimental Results
 
+<img width="453" height="482" alt="image3" src="https://github.com/user-attachments/assets/4c1651fa-7d41-4f6a-baae-7fc810260ebc" />
 
+As the results shows, DFS faster with small (10,30) amount of nodes, while at 100 nodes the results are slightly different.
 
 E. Screenshots
 
+<img width="422" height="480" alt="image1" src="https://github.com/user-attachments/assets/1b5ceaee-c73e-4853-a762-13cc1bca3ecd" />
+
+<img width="431" height="488" alt="image2" src="https://github.com/user-attachments/assets/90bcba90-1108-49be-b019-767e5f00546a" />
+
+<img width="453" height="482" alt="image3" src="https://github.com/user-attachments/assets/1cf8cd9f-8abc-45ce-a08a-4647001210d1" />
+
+
 F. Reflection Section
 
-Implementing these algorithms shows how choice of data structure impacts utility. BFS checks all nearby nodes while DFS checks as far as possible.
+Implementing these algorithms shows how choice of data structure impacts utility. BFS checks all nearby nodes while DFS checks as far as possible. It was not hard to implement the project.
