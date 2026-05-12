@@ -35,7 +35,7 @@ public class Experiment {
 
     private void runTraversals(Graph g, int size) {
         //Small graph
-        boolean showPath = (size <= 10);
+        boolean showPath = (size <= 100000);
 
         //BFS execution
         if (showPath) {
