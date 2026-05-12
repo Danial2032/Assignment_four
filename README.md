@@ -64,18 +64,17 @@ Uses recursion. It follows a path as far as possible before backtracking. The co
 
 D.Experimental Results
 
-<img width="453" height="482" alt="image3" src="https://github.com/user-attachments/assets/4c1651fa-7d41-4f6a-baae-7fc810260ebc" />
+<img width="1303" height="550" alt="image1" src="https://github.com/user-attachments/assets/f59942e4-5ca4-4940-8f43-57f3d6c6ac2a" />
 
 As the results shows, DFS faster with small (10,30) amount of nodes, while at 100 nodes the results are slightly different.
 
 E. Screenshots
 
-<img width="422" height="480" alt="image1" src="https://github.com/user-attachments/assets/1b5ceaee-c73e-4853-a762-13cc1bca3ecd" />
+<img width="1303" height="550" alt="image1" src="https://github.com/user-attachments/assets/5b347ae2-8750-4bd5-87c1-a4a6c46b3812" />
 
-<img width="431" height="488" alt="image2" src="https://github.com/user-attachments/assets/90bcba90-1108-49be-b019-767e5f00546a" />
+<img width="1354" height="521" alt="image2" src="https://github.com/user-attachments/assets/d3b140fc-17f4-4e5b-a37b-5ef402331a28" />
 
-<img width="453" height="482" alt="image3" src="https://github.com/user-attachments/assets/1cf8cd9f-8abc-45ce-a08a-4647001210d1" />
-
+<img width="1389" height="566" alt="image3" src="https://github.com/user-attachments/assets/fa6fa62f-da74-4369-9b22-6ce73585d796" />
 
 F. Reflection Section
 
