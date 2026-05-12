@@ -9,6 +9,7 @@ public class Experiment {
             System.out.println("Testing Graph with " + size + " Vertices");
 
             Graph g = new Graph();
+            g= generateRandomGraph(size);
             runTraversals(g,size);
         }
     }
